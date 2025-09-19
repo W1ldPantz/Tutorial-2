@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/georg/OneDrive/Desktop/University/GDW Tutorials/Tutorial2/Content/Blueprints/Player/BP_FPCharacter.uasset"
+			]
+		}
+	]
+}
